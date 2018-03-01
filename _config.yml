@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I m Chuan
-name: Your Name # ex. DONGChuan
-email: my_email_address@lalala.com
+title: I'm homesangsang # ex. I m Chuan
+name: homesangsang # ex. DONGChuan
+email: homesangsang@163.com
 location: My location # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
-github_url: my_github_url # ex. https://github.com/DONGChuan
-github_username: # ex. DONGChuan
-description: description_of_your_web_site
+company:  Beijing ChengQiTong Technology Co., Ltd. 
+company_url: http://www.linkcircle.cn/
+github_url: https://github.com/homesangsang # ex. https://github.com/DONGChuan
+github_username: homesangsang # ex. DONGChuan
+description: I don't know
 favicon: favicon.png # Image must be in assets/images
-repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: homesangsang/homesangsang.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
@@ -48,10 +48,10 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+disque: homesangsang.github.io # ex. httpdongchuangithubio.disqus.com
 
 # Pagination
-paginate: 10
+paginate: 20
 paginate_path: 'page:num'
 
 # Navigation. If you do not like these modules, just remove them :D
@@ -87,7 +87,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
+skill_software_keywords: [Java, Python, MySQL, SQLite, Design Patterns]
+skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJ, Redis, Boostrap]
 skill_mobile_app_keywords: [Android, Sketch UI Desgin]
